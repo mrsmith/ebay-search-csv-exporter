@@ -1,6 +1,6 @@
 {
   "name": "ebay-search-export",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "test": "node --test tests/unit.js tests/dom.js"
